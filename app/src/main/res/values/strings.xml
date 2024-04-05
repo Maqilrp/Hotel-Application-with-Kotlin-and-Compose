@@ -1,0 +1,19 @@
+<resources>
+<!-- bahasa inggris -->
+    <string name="app_name">Hotel Application</string>
+    <string name="about_application">Application for Hotel Reservation\n</string>
+    <string name="back">Back</string>
+    <string name="copyright">This Application Created By Muhammad Aqil Rasyid Permana</string>
+    <string name="input_data">Input all Required Data</string>
+    <string name="input_invalid">Fill the Data</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="numberOfPeople">Number of People</string>
+    <string name="checkin">Check-In-Date</string>
+    <string name="bagikan_template">
+        Booking Under: %1$s \nNumber of People: %2$s \nDate of CheckIn: %3$s\n
+    </string>
+    <string name="share">Share</string>
+
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikasi Hotel</string>
+    <string name="about_application">Aplikasi Untuk Reservasi Hotel</string>
+    <string name="back">Kembali</string>
+    <string name="copyright">Aplikasi Ini Dibuat Oleh Muhammad Aqil Rasyid Permana</string>
+    <string name="input_data">Isi Semua Data yang Diminta</string>
+    <string name="input_invalid">isi data</string>
+    <string name="submit">Kirim</string>
+    <string name="share">Bagikan</string>
+    <string name="bagikan_template">" Nama Pemesan: %1$s Jumlah Orang: %2$s Tanggal CheckIn: %3$s"</string>
+    <string name="name">Nama</string>
+    <string name="checkin">Tanggal-Masuk</string>
+    <string name="numberOfPeople">Jumlah Orang</string>
+</resources>
